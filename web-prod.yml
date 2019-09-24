@@ -93,3 +93,5 @@ spring:
 API-GATEWAY:  #这是ribbon要请求的serviceID
   ribbon:
     listOfServers: http://localhost:8080
+name: zhangsan
+age: 28
